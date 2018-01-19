@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <h1>SimplyJump</h1>
+        <p class="lead">Jumpstart your life. In some other ways you can use the simple jump rope to have fun with kids. One game is for younger kids who haven't yet developed the motor skills and coordination for regular jump rope.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
@@ -12,9 +12,12 @@
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
+                Begin setting up your development environment. You need the following.</p>
+            <ul>
+                <li>A good Editor</li>
+                <li>Standard Library for coding</li>
+                <li>Best practices guide.</li>
+            </ul>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
