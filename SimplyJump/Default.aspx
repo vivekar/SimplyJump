@@ -3,14 +3,10 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer</h1>
-        <h1>&nbsp;</h1>
-        <p class="lead">Jumpstart your life. In some other ways you can use the simple jump rope to have fun with kids. One game is for younger kids who haven't yet developed the motor skills and coordination for regular jump rope.</p>
-        <p class="lead">
-            Microservices and Serverless have certainly grown a lot in popularity over the past few years. Everyone these days wants to replicate the successes of companies such as Netflix and create a system that is fault-tolerant and resilient to the nth-degree.&nbsp;</p>
-        <p class="lead">Vivek Sharma testing</p>
-        <p class="lead">Vivek R Again changing.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <h1>Simply Jump Start Git</h1>
+        <p class="lead">Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people. Git is a free and open source version control system, originally created by Linus Torvalds in 2005. Unlike older centralized version control systems such as SVN and CVS, Git is distributed: every developer has the full history of their code repository locally. </p>
+        <p class="lead">If you want to jump start git, this simple website would help you with basic command-line tips and tricks.</p>
+        <p><a href="https://git-scm.com/doc" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
     <div class="row">
@@ -19,31 +15,26 @@
             <p>
                 Begin setting up your development environment. You need the following.</p>
             <ul>
-                <li>A good Editor</li>
-                <li>Standard Library for coding</li>
+                <li>A good editor - like <a href="https://www.visualstudio.com/">Visual Studio</a> , <a href="https://code.visualstudio.com/">VS Code</a>, <a href="https://www.sublimetext.com/">Sublime</a>, <a href="https://atom.io/">Atom</a> etc.,</li>
+                <li>Standards Coding Library</li>
                 <li>Best practices guide.</li>
             </ul>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
+                &nbsp;</p>
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>Beginner commands</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                <code>git init</code>  &nbsp;
+                Create an empty Git repository or reinitialize an existing one
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <code>git-clone</code> &nbsp;Clone a repository into a new directory
             </p>
+            <p>
+                &nbsp;</p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
         </div>
     </div>
 
